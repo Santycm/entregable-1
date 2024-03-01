@@ -1,0 +1,14 @@
+C:\Users\Castaño Moreno\Desktop\entregable-1\bin\Debug\net8.0\entregable-1.exe
+C:\Users\Castaño Moreno\Desktop\entregable-1\bin\Debug\net8.0\entregable-1.deps.json
+C:\Users\Castaño Moreno\Desktop\entregable-1\bin\Debug\net8.0\entregable-1.runtimeconfig.json
+C:\Users\Castaño Moreno\Desktop\entregable-1\bin\Debug\net8.0\entregable-1.dll
+C:\Users\Castaño Moreno\Desktop\entregable-1\bin\Debug\net8.0\entregable-1.pdb
+C:\Users\Castaño Moreno\Desktop\entregable-1\obj\Debug\net8.0\entregable-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Castaño Moreno\Desktop\entregable-1\obj\Debug\net8.0\entregable-1.AssemblyInfoInputs.cache
+C:\Users\Castaño Moreno\Desktop\entregable-1\obj\Debug\net8.0\entregable-1.AssemblyInfo.cs
+C:\Users\Castaño Moreno\Desktop\entregable-1\obj\Debug\net8.0\entregable-1.csproj.CoreCompileInputs.cache
+C:\Users\Castaño Moreno\Desktop\entregable-1\obj\Debug\net8.0\entregable-1.dll
+C:\Users\Castaño Moreno\Desktop\entregable-1\obj\Debug\net8.0\refint\entregable-1.dll
+C:\Users\Castaño Moreno\Desktop\entregable-1\obj\Debug\net8.0\entregable-1.pdb
+C:\Users\Castaño Moreno\Desktop\entregable-1\obj\Debug\net8.0\entregable-1.genruntimeconfig.cache
+C:\Users\Castaño Moreno\Desktop\entregable-1\obj\Debug\net8.0\ref\entregable-1.dll
