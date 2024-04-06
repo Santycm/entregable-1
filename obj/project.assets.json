@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Castaño Moreno\\.nuget\\packages\\": {}
+    "/home/santiago/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Castaño Moreno\\Desktop\\entregable-1\\entregable-1.csproj",
+      "projectUniqueName": "/home/santiago/Desktop/webaap/entregable-1/entregable-1.csproj",
       "projectName": "entregable-1",
-      "projectPath": "C:\\Users\\Castaño Moreno\\Desktop\\entregable-1\\entregable-1.csproj",
-      "packagesPath": "C:\\Users\\Castaño Moreno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Castaño Moreno\\Desktop\\entregable-1\\obj\\",
+      "projectPath": "/home/santiago/Desktop/webaap/entregable-1/entregable-1.csproj",
+      "packagesPath": "/home/santiago/.nuget/packages/",
+      "outputPath": "/home/santiago/Desktop/webaap/entregable-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Castaño Moreno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/santiago/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
